@@ -29,7 +29,7 @@
 				<div class="circle"><i class="fas fa-map-marked-alt"></i></div>
 				<h3>Mūs rasite</h3>
 				<p>Naujakiemo g. 15</p>
-				<p>Kalipėda 96142</p>
+				<p>Klaipėda 96142</p>
 			</div>
 		</div>
 	</div>
@@ -60,7 +60,7 @@
 				<div class="circle"><i class="fas fa-map-marked-alt"></i></div>
 				<h3>Mūs rasite</h3>
 				<p>Naujakiemo g. 15</p>
-				<p>Kalipėda 96142</p>
+				<p>Kalipėda 96143</p>
 			</div>
 		</div>
 	</div>
