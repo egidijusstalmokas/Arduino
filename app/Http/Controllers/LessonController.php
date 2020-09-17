@@ -69,8 +69,6 @@ class LessonController extends Controller
             'video_url' => $lessonData['video_url'],
             'type' => $lessonData['type'],
 
-          
-
         ]);
 
         return redirect('/lesson/create');

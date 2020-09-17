@@ -23,22 +23,7 @@ Route::get('/', 'IndexController@showPosts');
 Route::get('about', 'IndexController@about');
 Route::get('fence', 'IndexController@fence');
 
-Route::prefix('fence')->group(function() {
-	Route::get('fence', 'IndexController@fence');
-	Route::get('skat', 'IndexController@skat');
-	Route::get('medt', 'IndexController@medt');
-	Route::get('segt', 'IndexController@segt');
-	Route::get('mett', 'IndexController@mett');
-	Route::get('kiev', 'IndexController@kiev');
-	Route::get('garv', 'IndexController@garv');
-	Route::get('autv', 'IndexController@autv');
-	Route::get('kelu', 'IndexController@kelu');
-	Route::get('fencecon', 'IndexController@fencecon');
-	Route::get('fencepas', 'IndexController@fencepas');
-	
-	
 
-});
 
 Route::get('weather', 'IndexController@weather');
 Route::post('weathercity', 'IndexController@weathercity')->name('weathercity');
