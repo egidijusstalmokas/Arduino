@@ -21,7 +21,7 @@ Route::get('/home/', 'HomeController@index');
 
 Route::get('/', 'IndexController@showPosts');
 Route::get('about', 'IndexController@about');
-Route::get('fence', 'IndexController@fence');
+
 
 
 
